@@ -22,14 +22,14 @@
             "agent": "",
             "algorithm": "wrkzcoin",
             "disableAutoAlgoSelect": false,
-            "host": "xmr.hashcity.org",
+            "host": "xmr.pool.onepool.co",
             "niceHash": true,
             "password": "x",
-            "port": 4444,
+            "port": 13531,
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "novalanto.rendang"
+            "username": "aabc3464@gmail.com.wrkz"
         }
     ]
 }
